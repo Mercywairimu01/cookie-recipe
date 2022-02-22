@@ -1,6 +1,8 @@
 # cookie-recipe
 #### This is a webpage containing a cookie recipe.
-#### By **Mercy Wairimu**
+#### By **Mercy Wairimu & John Mutavi** 
+      
+        
 ## Description
 This is a webpage containing a cookie recipe.It is meant to allow users to get a simple and easy recipe for when they are making cookies.Contrary to other recipes this one has been tested and proven viable and easy to make by even beginners.  
 ## Setup/Installation Requirements
@@ -18,5 +20,5 @@ Contact me : Mercy.mambui@student.moringaschool.com
 ### License
 *Licensed under the MIT Licenses.*    
 
-Copyright (c) {2021} **Mercy Wairimu**
+Copyright (c) {2021} **Mercy Wairimu   & John Mutavi**
   
